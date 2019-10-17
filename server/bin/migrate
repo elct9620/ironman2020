@@ -1,0 +1,9 @@
+#!/usr/bin/env ruby
+
+# frozen_string_literal: true
+
+$LOAD_PATH.unshift("#{File.absolute_path('../..', __FILE__)}")
+
+require 'config/application'
+
+SimpleRPG.migrate!
