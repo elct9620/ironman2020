@@ -8,7 +8,7 @@ GEM
     nio4r (2.5.2)
     puma (4.3.5)
       nio4r (~> 2.0)
-    rack (2.0.8)
+    rack (2.1.4)
     rb-fsevent (0.10.3)
     sequel (5.24.0)
     sqlite3 (1.4.1)
